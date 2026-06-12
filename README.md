@@ -22,22 +22,22 @@ Here is a comprehensive look at the implemented layouts and visual identity of t
 ### 1. Unified Dashboard Home Feed
 
 The application home feed organizes video card blocks inside a beautifully aligned layout, leaving standard utility navigation panels locked neatly to the sidebar.
-<img src="https://raw.githubusercontent.com/muskanbansal1609/youtube-clone/main/img1.png" width="100%" alt="Dashboard Home Feed" />
+![Dashboard Home Feed](img1.png)
 
 ### 2. High-Performance Sidebar Navigation
 
 Modern curved pill-shaped tabs (`rounded-xl`) shift color schemas dynamically using React Router bindings to highlight current location modules instantly.
-<img src="https://raw.githubusercontent.com/muskanbansal1609/youtube-clone/main/img2.png" width="100%" alt="Sidebar Component View" />
+![Sidebar Component View](img2.png)
 
 ### 3. Integrated Global Header Search System
 
 The top navigation hub manages input search parameters gracefully, maintaining structural stability even as browser frame contexts stretch or shrink.
-<img src="https://raw.githubusercontent.com/muskanbansal1609/youtube-clone/main/img3.png" width="100%" alt="Search Architecture Preview" />
+![Search Architecture Preview](img3.png)
 
 ### 4. Advanced Two-Column Watch Page
 
 A premium theater view optimizing display space with a 72% primary layout for live streaming media next to an independent, active recommended video side column.
-<img src="https://raw.githubusercontent.com/muskanbansal1609/youtube-clone/main/img4.png" width="100%" alt="Theater Mode Media Player View" />
+![Theater Mode Media Player View](img4.png)
 
 ---
 
