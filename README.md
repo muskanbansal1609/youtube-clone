@@ -15,32 +15,6 @@ A modern, fast, and fully responsive YouTube Clone application built using **Rea
 
 ---
 
-## 📸 Interface Preview
-
-Here is a comprehensive look at the implemented layouts and visual identity of the application:
-
-### 1. Unified Dashboard Home Feed
-
-The application home feed organizes video card blocks inside a beautifully aligned layout, leaving standard utility navigation panels locked neatly to the sidebar.
-![Dashboard Home Feed](./assets/img1.png)
-
-### 2. High-Performance Sidebar Navigation
-
-Modern curved pill-shaped tabs (`rounded-xl`) shift color schemas dynamically using React Router bindings to highlight current location modules instantly.
-![Sidebar Component View](./assets/assets/img2.png)
-
-### 3. Integrated Global Header Search System
-
-The top navigation hub manages input search parameters gracefully, maintaining structural stability even as browser frame contexts stretch or shrink.
-![Search Architecture Preview](./assets/img3.png)
-
-### 4. Advanced Two-Column Watch Page
-
-A premium theater view optimizing display space with a 72% primary layout for live streaming media next to an independent, active recommended video side column.
-![Theater Mode Media Player View](./assets/img4.png)
-
----
-
 ## 🛠️ Tech Stack & Architecture
 
 - **Frontend Library**: React (with Function Components & Custom State Memoization Hooks)
