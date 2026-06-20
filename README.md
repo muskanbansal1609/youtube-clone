@@ -3,6 +3,8 @@
 
 A modern, fast, and fully responsive YouTube Clone application built using **React**, **TypeScript**, **Tailwind CSS**, and **React Router**. This application connects directly with the YouTube Data API to stream home video feeds, process live keyword searching, display category-specific routes like Shorts and Subscriptions, and render an immersive, theater-mode video playback environment.
 
+Live: https://muskan-youtube-clone.netlify.app/
+
 ---
 
 ## ✨ Features
